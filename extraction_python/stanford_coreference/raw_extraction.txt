@@ -1,0 +1,68 @@
+Details on Gabrieli 's early life are sketchy.
+0.87 (Details on Gabrieli 's early life; are; sketchy)
+
+Gabrieli was probably a native of Venice, most likely the parish of S. Geremia.
+0.93 (Gabrieli; was probably; a native of Venice)
+
+Gabrieli may have been a pupil of Adrian Willaert at St. Mark 's in Venice at an early age.
+0.93 (Gabrieli; may have been; a pupil of Adrian Willaert at St. Mark 's; T:at an early age)
+
+There is some evidence that Gabrieli may have spent some time in Verona in the early 1550s, due to a connection with Vincenzo Ruffo, who worked there as maestro di cappella -- Ruffo published one of Gabrieli 's madrigals in 1554, and Gabrieli also wrote some music for a Veronese academy.
+0.93 (Gabrieli; may have spent; some time; L:in Verona; in the early 1550s)
+0.79 (Vincenzo Ruffo; worked; L:there; cappella)
+0.92 (Gabrieli; wrote; some music; for a Veronese academy)
+0.88 (There; is some evidence that; Gabrieli)
+
+Gabrieli is known to have been organist in Cannaregio between 1555 and 1557, at which time Gabrieli competed unsuccessfully for the post of organist at St. Mark 's.
+0.77 (Gabrieli; is known; )
+0.92 (Gabrieli; to have been; organist; L:in Cannaregio; T:between 1555 and 1557)
+0.98 (Gabrieli; competed unsuccessfully; for the post of organist at St. Mark 's; T:at which time)
+
+In 1562 Gabrieli went to Germany, where Gabrieli visited Frankfurt am Main and Munich ; while there Gabrieli met and became friends with Orlande de Lassus, one of the most wide-ranging composers of the entire Renaissance, who wrote secular songs in French, Italian, and German, as well as abundant Latin sacred music.
+0.92 (the entire Renaissance; wrote; secular songs)
+0.96 (Gabrieli; visited; Frankfurt; L:Germany)
+0.89 (Gabrieli; met; L:there)
+0.92 (Gabrieli; became; friends with Orlande de Lassus)
+
+This musical relationship proved immensely fruitful for both composers : while Lassus certainly learned from the Venetian, Gabrieli took back to Venice numerous ideas Lassus learned while visiting Lassus in Bavaria, and within a short time was composing in most of the current idioms, including one which Lassus entirely avoided : purely instrumental music.In 1566 Gabrieli was chosen for the post of organist at St. Mark 's, one of the most prestigious musical posts in northern Italy ; Lassus retained this position for the rest of Lassus's life.
+0.93 (Lassus; certainly learned; from the Venetian)
+0.68 (one; entirely avoided; Lassus)
+0.88 (numerous ideas; learned; T:while visiting Lassus in Bavaria)
+0.90 Context(numerous ideas learned,List([152, 181))):(Lassus; visiting; Lassus; L:in Bavaria)
+0.91 (Lassus; retained; this position for the rest of Lassus's life)
+0.96 Context(Lassus retained,List([488, 503))):(instrumental music.In 1566 Gabrieli; was chosen; for the post of organist at St. Mark 's; T:purely)
+0.90 Context(instrumental music.In 1566 Gabrieli was chosen Lassus retained,List([338, 503))):(Gabrieli; took back; numerous ideas Lassus learned)
+
+Around this time Lassus acquired, and maintained, a reputation as one of the finest current composers.
+0.94 (Lassus; acquired; T:Around this time)
+0.94 (Lassus; maintained; a reputation as one of the finest current composers; T:Around this time)
+
+Working in the unique acoustical space of St. Mark 's, St. Mark was able to develop St. Mark's unique, grand ceremonial style, which was enormously influential in the development of the polychoral style and the concertato idiom, which partially defined the beginning of the Baroque era in music.His duties at St. Mark 's clearly included composition, for St. Mark wrote a great deal of music for ceremonial affairs, some of considerable historical interest.
+0.87 (St. Mark; to develop; St. Mark's unique, grand ceremonial style)
+0.98 (St. Mark's unique, grand ceremonial style; was; enormously influential in the development of the polychoral style and the concertato idiom)
+0.90 (the concertato idiom; partially defined; the beginning of the Baroque era in music.His duties at St. Mark 's clearly included composition)
+
+St. Mark provided the music for the festivities accompanying the celebration of the victory over the Turks in the Battle of Lepanto ; St. Mark also composed music for the visit of several princes from Japan.
+0.95 (the festivities; accompanying; the celebration of the victory over the Turks in the Battle of Lepanto)
+0.86 (St. Mark; also composed; music for the visit of several princes from Japan)
+0.83 Context(St. Mark also composed,List([134, 156))):(St. Mark; provided; the music; for the festivities)
+
+Late in St. Mark's career St. Mark also became famous as a teacher.
+
+Prominent among St. Mark's students were St. Mark's nephew Giovanni Gabrieli ; the music theorist Lodovico Zacconi ; Hans Leo Hassler, who carried the concertato style to Germany ; and many others.The date and circumstances of St. Mark's death were not known until the 1980s, when the register containing St. Mark's death date was found.
+0.96 (Prominent among St. Mark's students; were; St. Mark's nephew Giovanni Gabrieli)
+0.89 (many others.The date and circumstances of St. Mark's death; were not known; )
+0.92 (the register; containing; St. Mark's death date)
+0.97 (the register containing St. Mark's death date; was found; T:the 1980s)
+0.39 (Lodovico Zacconi; [is] theorist [of]; music)
+0.38 (Giovanni Gabrieli; [is] nephew [of]; Mark)
+
+Dated August 30, 1585, it includes the notation that St. Mark was `` about 52 years old '' ; St. Mark's approximate birth date has been inferred from this.
+0.88 (St. Mark; was; about 52 years old)
+0.84 (St. Mark's approximate birth date; has been inferred; from this)
+0.45 Context(St. Mark 's approximate birth date has been inferred,List([93, 144))):(it; includes; the notation that St. Mark was `` about 52 years old ''; T:Dated August 30)
+
+St. Mark's position at St. Mark 's was not filled until the end of 1586, and a large amount of his music was published posthumously in 1587.
+0.96 (St. Mark's position at St. Mark 's; was not filled; T:until the end of 1586)
+0.48 (a large amount of his music; was published posthumously; T:in 1587)
+

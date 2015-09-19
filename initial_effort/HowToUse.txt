@@ -1,0 +1,33 @@
+How to use OLLIE and put result into EventEditor:
+
+1. In terminal, cd to workspace, which should contain at least 4 files: ollie-app-latest.jar, engmalt.linear-1.7.mco, loadOutput.py, preprocess.py. A makefile may also be contained.
+
+2. Put document into the wordspace. (For instance, the document is record.txt).
+
+3. There are two methods to perform extraction:
+
+  3.1:
+	In terminal, run
+		make input=[name of input file] output=[name of output file]
+	For example, if the input documtn is john.txt, and the file to be loaded to EventEditor is johnExtractions.txt, then it should be
+		make input=john.txt output=johnExtractions.txt
+	If simply run like
+		make
+	the input file name should be record.txt which is default in makefile. The default output file is thereItIs.txt.
+	Notice that the output file must be a .txt file so that the EventEditor could read. In the end run
+		make clean
+	to delete the temporary files.
+
+  3.2:
+  	In terminal, run
+  		python preprocess.py [name of input file] filtered.txt
+  	then, run
+  		java -Xmx512m -jar ollie-app-latest.jar filtered.txt --split > output.txt
+  	finally, run
+  		python loadOutput.py output.txt [name of output file]
+  	manually delete temporary files.
+
+4. In EventEditor load the output file.
+
+
+	

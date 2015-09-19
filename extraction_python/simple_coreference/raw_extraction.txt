@@ -1,0 +1,119 @@
+Andrea Gabrieli  was an Italian[1] composer and organist of the late Renaissance.
+0.97 (Andrea Gabrieli; was; an Italian[1] composer and organist of the late Renaissance)
+0.88 (Andrea Gabrieli; was an Italian[ 1 ] composer and organist of; the late Renaissance)
+
+The uncle of the somewhat more famous Giovanni Gabrieli, he was the first internationally renowned member of the Venetian School of composers, and was extremely influential in spreading the Venetian style in Italy as well as in Germany.
+0.68 (he; was; the first internationally renowned member of the Venetian School of composers)
+0.64 (he; was; extremely influential in spreading the Venetian style in Italy as well as in Germany)
+0.38 (he; was the first internationally renowned member of; the Venetian School)
+
+Roland de Lassus  was a Netherlandish or Franco-Flemish composer of the late Renaissance.
+0.96 (Roland de Lassus; was; a Netherlandish or Franco-Flemish composer of the late Renaissance)
+0.88 (Roland de Lassus; was a Netherlandish or Franco-Flemish composer of; the late Renaissance)
+
+Roland de Lassus is today considered to be the chief representative of the mature polyphonic style of the Franco-Flemish school, and one of the three most famous and influential musicians in Europe at the end of the 16th century .
+0.97 (Roland de Lassus; is; today considered to be the chief representative of the mature polyphonic style of the Franco-Flemish school)
+0.96 (Roland de Lassus; to be; the chief representative of the mature polyphonic style of the Franco-Flemish school)
+
+Gilles de Binche (called Binchois; also known as Gilles de Bins; ca.1400 – 20 September 1460), was a Netherlandish composer, one of the earliest members of the Burgundian school and one of the three most famous composers of the early 15th century.
+0.96 (Gilles de Binche (called Binchois; known; as Gilles de Bins)
+0.95 (Gilles de Binche (called Binchois; was; a Netherlandish composer)
+
+While often ranked behind his contemporaries Guillaume Dufay and John Dunstable, at least by contemporary scholars, his influence was arguably greater than either, since his works were cited, borrowed and used as source material more often than those by any other composer of the time.
+0.43 (his influence; was; arguably greater than either; since his works were cited, borrowed and used as source material more often than those by any other composer of the time)
+0.34 (his works; were cited; )
+0.30 (his works; borrowed; )
+
+Isaac Manuel Francisco Albéniz y Pascual  was a Spanish pianist and composer best known for his piano works based on folk music idioms.
+0.96 (Isaac Manuel Francisco Albéniz y Pascual; was; a Spanish pianist and composer best known for his piano works)
+0.87 (a Spanish pianist and composer; best known; for his piano works)
+0.66 (his piano works; based; on folk music idioms)
+
+Isaac Manuel Francisco Albéniz was born in 29 May 1860.
+0.95 (Isaac Manuel Francisco Albéniz; was born; T:in 29 May 1860)
+
+Isaac Manuel Francisco Albéniz died in 18 May.
+0.95 (Isaac Manuel Francisco Albéniz; died; T:in 18 May)
+
+Transcriptions of many of Isaac Manuel Francisco Albéniz's pieces, such as Asturias , Granada, Sevilla, Cádiz, Córdoba, Cataluña, and the Tango in D, are important pieces for classical guitar, though Isaac Manuel Francisco Albéniz never composed for the guitar.
+0.99 (Transcriptions of many of Isaac Manuel Francisco Albéniz's pieces, such as Asturias , Granada, Sevilla, Cádiz, Córdoba, Cataluña, and the Tango in D; are; important pieces for classical guitar)
+0.94 (Isaac Manuel Francisco Albéniz; never composed; for the guitar)
+
+The personal papers of Isaac Albéniz are preserved, among other institutions, in the Biblioteca de Catalunya.
+0.95 (The personal papers of Isaac Albéniz; are preserved; L:among other institutions; L:in the Biblioteca de Catalunya)
+
+Josquin des Prez , often referred to simply as Josquin, was a Franco-Flemish composer of the Renaissance.
+0.88 (Josquin des Prez; referred; to; T:often)
+0.90 (Josquin des Prez; simply was; a Franco-Flemish composer of the Renaissance)
+
+His original name is sometimes given as Josquin Lebloitte and his later name is given under a wide variety of spellings in French, Italian, and Latin, including Iosquinus Pratensis and Iodocus a Prato.
+0.73 (His original name; is given; as Josquin Lebloitte; T:sometimes)
+0.36 (his later name; is given; )
+
+His motet Illibata Dei virgo nutrix includes an acrostic of his name, where he spelled it "Josquin des Prez".
+0.66 (His motet Illibata Dei virgo nutrix; includes; an acrostic of his name)
+0.31 (he; spelled; it)
+
+[2][3] He was the most famous European composer between Guillaume Dufay and Palestrina, and is usually considered to be the central figure of the Franco-Flemish School.
+0.68 (He; was; the most famous European composer between Guillaume Dufay and Palestrina)
+0.97 (the most famous European composer between Guillaume Dufay and Palestrina; to be; the central figure of the Franco-Flemish School)
+0.38 (He; was the most famous European composer between; Guillaume Dufay)
+
+Josquin is widely considered by music scholars to be the first master of the high Renaissance style of polyphonic vocal music that was emerging during his lifetime.
+0.95 (Josquin; to be; the first master of the high Renaissance style of polyphonic vocal music)
+0.82 (polyphonic vocal music; was emerging; T:during his lifetime)
+
+Ludwig Senfl (born around 1486, died between December 2, 1542 and August 10, 1543) was a Swiss composer of the Renaissance, active in Germany.
+0.83 (Ludwig Senfl; born; T:around 1486)
+0.93 (Ludwig Senfl; died; T:between December 2, 1542 and August 10)
+0.96 (Ludwig Senfl; was; a Swiss composer of the Renaissance, active in Germany)
+0.38 (December 2 , 1542 and August 10 , 1543 ); was a Swiss composer of; the Renaissance)
+
+He was the most famous pupil of Heinrich Isaac, was music director to the court of Maximilian I, Holy Roman Emperor, and was an influential figure in the development of the Franco-Flemish polyphonic style in Germany.
+0.57 (He; was; the most famous pupil of Heinrich Isaac)
+0.64 (He; was; music director to the court of Maximilian I, Holy Roman Emperor)
+0.64 (He; was; an influential figure in the development of the Franco-Flemish polyphonic style in Germany)
+0.88 (He; was the most famous pupil of; Heinrich Isaac)
+
+Johannes Ockeghem (also Jean de, Jan; surname Okeghem, Ogkegum, Okchem, Hocquegam, Ockegham; other variant spellings are also encountered) (1410/1425 – February 6,[2] 1497) was the most famous composer of the Franco-Flemish School in the last half of the 15th century, and is often considered the most influential composer between Dufay and Josquin des Prez.
+0.75 (other variant spellings; are also encountered; )
+0.99 (Johannes Ockeghem (also Jean de, Jan; surname Okeghem, Ogkegum, Okchem, Hocquegam, Ockegham; other variant spellings are also encountered; was; the most famous composer of the Franco-Flemish School in the last half of the 15th century)
+0.38 (1497 ); was the most famous composer of; the Franco-Flemish School)
+
+In addition to being a renowned composer, he was also an honored singer, choirmaster, and teacher.
+0.45 (he; was also; an honored singer, choirmaster, and teacher)
+
+Adrian Willaert  was a Netherlandish composer of the Renaissance and founder of the Venetian School.
+0.97 (Adrian Willaert; was; a Netherlandish composer of the Renaissance and founder of the Venetian School)
+0.88 (Adrian Willaert; was a Netherlandish composer of; the Renaissance and founder)
+
+[1] Adrian Willaert was one of the most representative members of the generation of northern composers who moved to Italy and transplanted the polyphonic Franco-Flemish style there.
+0.53 (1; was; one of the most representative members of the generation of northern composers)
+0.90 (northern composers; moved; to Italy)
+0.89 ([1 ] Adrian Willaert; was one of; the most representative members)
+
+Guillaume Dufay  was a Franco-Flemish composer of the early Renaissance.
+0.95 (Guillaume Dufay; was; a Franco-Flemish composer of the early Renaissance)
+0.88 (Guillaume Dufay; was a Franco-Flemish composer of; the early Renaissance)
+
+Guillaume Dufay was born in 5 August,.
+0.94 (Guillaume Dufay; was born; T:in 5 August)
+
+Guillaume Dufay died in 27 November.
+0.94 (Guillaume Dufay; died; T:in 27 November)
+
+The central figure in the Burgundian School, Guillaume Dufay was regarded by Guillaume Dufay's contemporaries as the leading composer in Europe in the mid-15th century.
+0.96 (Guillaume Dufay; was regarded; by Guillaume Dufay's contemporaries as the leading composer in Europe in the mid-15th century)
+
+einrich Schütz  was a German composer and organist, generally regarded as the most important German composer before Johann Sebastian Bach and often considered to be one of the most important composers of the 17th century.
+0.97 (einrich Schütz; was; a German composer and organist, generally regarded as the most important German composer before Johann Sebastian Bach and)
+0.95 (a German composer and organist; generally regarded; as the most important German composer before Johann Sebastian Bach)
+
+Johann Sebastian Bach wrote what is traditionally considered to be the first German opera, Dafne, performed at Torgau in 1627, the music of which has since been lost.
+0.92 (the first German opera; performed; L:at Torgau; T:in 1627)
+0.95 (Johann Sebastian Bach; wrote; what is traditionally considered to be the first German opera)
+0.76 Context(Johann Sebastian Bach wrote,List([0, 27))):(the music of which; has been lost; T:since)
+
+Johann Sebastian Bach is commemorated as a musician in the Calendar of Saints of the Lutheran Church on 28 July with Johann Sebastian Bach and George Frideric Handel.
+0.96 (Johann Sebastian Bach; is commemorated; as a musician in the Calendar of Saints of the Lutheran Church on 28 July with Johann Sebastian Bach and George Frideric Handel)
+

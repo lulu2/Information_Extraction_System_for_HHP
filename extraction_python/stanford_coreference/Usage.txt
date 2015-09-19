@@ -1,0 +1,1 @@
+This is basically the same version as simple_coreference. The only difference is in the filter step. Please refer to Usage file of simple_coreference.
