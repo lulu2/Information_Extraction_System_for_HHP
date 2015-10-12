@@ -1,6 +1,6 @@
 # Information_extraction_frame_for_HHP
 
-This repo contains implementation of information extraction frames using current NLP tools, including StanfordCore nlp, nltk, openie, etc.
+This repo contains SRED, System of Relation Extraction on Documents, which uses current NLP tools, including StanfordCore NLP, nltk, OpenIE, etc.
 
 extraction_java folder contains programs used as base for webapp, which is based on Stanford core nlp. It requires both stanford-corenlp.jar and stanford-corenlp-models.jar to run.
 
